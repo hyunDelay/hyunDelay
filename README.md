@@ -5,6 +5,7 @@
 </div>
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=hyunDelay&show_icons=true&theme=default)">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunDelay&layout=compact" height="195px">
 </div>
 
 ## 👌 Skills
